@@ -1,0 +1,39 @@
+
+
+[
+  {
+    "item": "SCP-002",
+    "object_class": "Euclid",
+    "image": "./images/800px-SCP002.jpg",
+    "containment": "SCP-002 is to remain connected to a suitable power supply at all times, to keep it in what appears to be a recharging mode. In case of electrical outage, the emergency barrier between the object and the facility is to be closed and the immediate area evacuated. Teams including a minimum of two members are required within 20 meters.",
+    "description": "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³. An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size containing furniture made of biological substances produced by the human body."
+  },
+  {
+    "item": "SCP-003",
+    "object_class": "Euclid",
+    "image": "./images/scp-003.jpg",
+    "containment": "SCP-003 is to be maintained at a constant temperature of no less than 35°C and ideally kept above 100°C. No living multicellular organisms of Category IV or higher complexity may be allowed to come into contact with SCP-003.",
+    "description": "SCP-003 consists of two related components of separate origin. SCP-003-1 appears to be composed of chitin, hair, and nails arranged in a configuration similar to a computer motherboard. SCP-003-2 is a stone tablet with glowing runes."
+  },
+  {
+    "item": "SCP-004",
+    "object_class": "Euclid",
+    "image": "./images/scp004_door.jpg",
+    "containment": "When handling items SCP-004-2 through SCP-004-13, proper procedure is vital. The items are not permitted to be moved off-site unless accompanied by two Level 4 security personnel. Unauthorized removal of keys is grounds for immediate termination.",
+    "description": "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door opens into an alternate dimension with spatiotemporal anomalies."
+  },
+  {
+    "item": "SCP-005",
+    "object_class": "Safe",
+    "image": "./images/scp-005.jpg",
+    "containment": "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object. Approval of at least one Level 4 personnel is required for removal.",
+    "description": "In appearance, SCP-005 resembles an ornate key displaying the characteristics of a typical mass-produced key used in the 1920s. SCP-005 seems to have the unique ability to open any and all forms of lock."
+  },
+  {
+    "item": "SCP-006",
+    "object_class": "Safe",
+    "image": "./images/scp-006.jpg",
+    "containment": "All personnel interacting with SCP-006 in any physical way are required to wear modified Class VI BNC suits. Procedures are carried out under extreme surveillance to keep the properties of SCP-006 secret from unauthorized personnel.",
+    "description": "SCP-006 is a very small spring located 60 km west of Astrakhan. Liquid emitted from the spring has the unusual property of restoring damaged DNA, repairing tissue, and drastically boosting the human immune system."
+  }
+]
